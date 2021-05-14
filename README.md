@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @diptesh07
+- 👀 I’m interested in coding and sports...
+- 🌱 I’m currently learning a veriety of new technologies. I love discussing ideas...
+- 📫 How to reach me? Feel free to drop in a mail at sil.diptesh@gmail.com ...
+
+<!---
+diptesh07/diptesh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
